@@ -12,5 +12,16 @@
   "devDependencies": {
     "nodemon": "^1.18.9"
   },
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandsachin20/Blocktrade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chandsachin20/Blocktrade/issues"
+  },
+  "homepage": "https://github.com/chandsachin20/Blocktrade#readme",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
 }
